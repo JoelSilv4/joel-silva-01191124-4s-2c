@@ -3,4 +3,6 @@
     <string name="titulo">Escolha seu doguinho</string>
     <string name="id_cachorro">Digite o id do cachorro</string>
     <string name="butao">Comprar cachorros</string>
+    <string name="erro">Deu ruim... Nenhum cachorro encontrado com os ids:</string>
+    <string name="amigavel">Apenas amigáveis com crianças</string>
 </resources>
